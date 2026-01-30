@@ -1,18 +1,16 @@
-import { initializeApp } from 'firebase/app';
-import { getAnalytics } from "firebase/analytics";
-
+import { initializeApp, getApps, getApp} from 'firebase/app';
+import { Platform } from 'react-native';
 // Optionally import the services that you want to use
-import { getAuth } from 'firebase/auth';
-import { getDatabase } from 'firebase/database';
-// import {...} from 'firebase/firestore';
+import { initializeAuth, getReactNativePersistence, browserLocalPersistence } from 'firebase/auth';
+import ReactNativeAsyncStorage from '@react-native-async-storage/async-storage';
+import { getFirestore } from 'firebase/firestore';
 // import {...} from 'firebase/functions';
 // import {...} from 'firebase/storage';
 
 // Initialize Firebase
 const firebaseConfig = {
-  aapiKey: "AIzaSyBfUKgJ9JAQOjXVAnBv1UIizu2kr61Z0eQ",
+  apiKey: "AIzaSyBfUKgJ9JAQOjXVAnBv1UIizu2kr61Z0eQ",
   authDomain: "cspa1-b59ba.firebaseapp.com",
-  databaseURL: 'https://cspa1.nam5.firebaseio.com',
   projectId: "cspa1-b59ba",
   storageBucket: "cspa1-b59ba.firebasestorage.app",
   messagingSenderId: "231505652359",
@@ -20,9 +18,13 @@ const firebaseConfig = {
   measurementId: "G-CB7W54DQ4Q"
 };
 
-const app = initializeApp(firebaseConfig);
-const database = getDatabase(app);
-const auth = getAuth(app);
-const analytics = getAnalytics(app);
+const app = getApps().length === 0 ? initializeApp(firebaseConfig) : getApp();
+export const database = getFirestore(app);
+
+const persistence = Platform.OS === 'web' 
+  ? browserLocalPersistence 
+  : getReactNativePersistence(ReactNativeAsyncStorage);
+
+export const auth = initializeAuth(app, { persistence })
 // For more information on how to access Firebase in your project,
 // see the Firebase documentation: https://firebase.google.com/docs/web/setup#access-firebase
