@@ -44,6 +44,7 @@ export default function Notes() {
       });
       setNewNote("");
       setModalVisible(false);
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     } catch (error) {
       Alert.alert("Database Error", "Check your Firestore rules!");
     }

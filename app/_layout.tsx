@@ -5,6 +5,7 @@ import { auth } from "../firebaseConfig";
 import { View, ActivityIndicator } from "react-native";
 import ".././global.css";
 
+
 export default function RootLayout() {
   const [user, setUser] = useState<User | null>(null);
   const [initializing, setInitializing] = useState(true);
@@ -19,7 +20,7 @@ export default function RootLayout() {
     });
 
     return unsubscribe;
-  }, []);
+  }, [initializing]);
 
   useEffect(() => {
     if (initializing) return;
@@ -29,9 +30,9 @@ export default function RootLayout() {
     if (!user && !inAuthGroup) {
       router.replace("/auth");
     } else if (user && inAuthGroup) {
-      router.replace("/(tabs)");
+      router.replace("/(tabs)/user");
     }
-  }, [user, initializing, segments]);
+  }, [user, initializing, segments, router]);
 
   if (initializing) {
     return (

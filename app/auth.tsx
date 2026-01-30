@@ -11,7 +11,7 @@ export default function Auth() {
     const handleLogin = async () => {
     try {
         await signInWithEmailAndPassword(auth, email, password);
-        router.replace("/(tabs)");
+        router.replace("/(tabs)/user");
     } catch (error: any) {
         Alert.alert("Login Error", error.message);
     }
