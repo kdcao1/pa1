@@ -244,3 +244,6 @@ No web results at all for: AR Volcano Asian Bistro LLC, DE Volcano Pizza LLC, NH
 - Carmel Valley CA, Volcano Grill & Mai Tai Bar: only an SF Station listing citing a 2008 award; likely outdated, current operation unconfirmed. Needs Monterey County permit/current source.
 - Thalia VA, 300 Constitution Dr: AllMenus (757-457-8679) and Atmosfy list it as operating; no restaurant-owned site or permit found. Candidate, check Virginia Beach/VDH permit and whether it replaces the 4830 Virginia Beach Blvd row.
 - White Marsh MD: only a planned-site report (WMAR2, undated); no opening evidence.
+
+## Lighter-pass attempt (10/16/2026)
+Scope agreed with user: only leads with a street address, confirmed by one permit lookup or one restaurant-owned page. Checked volcanohotpot.com and volcanohotpotbbq.com: no Maryland/White Marsh/Owings Mills or "coming soon" text found. No restaurant-owned page found for Carmel Valley CA or Thalia VA (guessed domains are for-sale parking pages; not evidence). Nothing meets the bar, so nothing added to the sheet. Registry URLs reachable from the cloud session (HTTP 200): AL AZ AR CT ID IN KS LA MD MA MN MS NV NJ NM NC OK RI SC SD VT VA WV; blocked/no response: CA CO DE FL IL IA ME MI MO NE NY ND OR TX UT WA WY (000), GA MT NH OH TN WI (403), PA (999).
