@@ -227,3 +227,15 @@ Minnesota (10/16/2026): VOLCANO BUFFET INC. (us_mn/86b156fc-97d4-e011-a886-001ec
 - EL VOLCAN BAR & GRILL, LLC (https://opencorporates.com/companies/us_wa/605966914)
 - VOLCANO JOE'S KITCHEN, LLC (https://opencorporates.com/companies/us_wa/603393578)
 - Excluded (non-restaurant/drink-only): VOLCANO ALLEY CREATIVE GROUP, LLC
+
+## Web-search verification round 1 (10/16/2026)
+
+User confirmed family locations are only: Georgia (Volcano Steak & Sushi group), Tennessee (all Volcano leads), and New Jersey (Volcano Steak & Sushi / Magic of Volcano Hibachi, Berlin NJ; Maple Shade NJ planned). Nothing else in NJ is family, so Volcano Japanese Cuisine (Bayonne) and other NJ leads are normal leads.
+
+New candidate restaurants not yet on the sheet (directory/news evidence only; need permit or operator confirmation before adding):
+- CA: Volcano Grill & Mai Tai Bar, 27 E Carmel Valley Rd, Carmel Valley CA (SF Station listing; registry VOLCANO GRILL INC. possible match, unconfirmed)
+- VA: Volcano Sushi Bar & Grill, 300 Constitution Dr, Thalia (Virginia Beach) VA 23462 (AllMenus/Atmosfy); check whether this is the same business as the sheet's 4830 Virginia Beach Blvd row (relocation/duplicate)
+- MD: Volcano Hot Pot & BBQ planned at White Marsh (former Bertucci's, Honeygo Blvd) per WMAR2; opening unconfirmed
+- Already on sheet (web search only re-found them): Battle Creek MI Volcano Pizza (148 W Columbia Ave), Burbank IL Two Volcano Seafood Boil Buffet (4817 W 77th St), North Wales PA Volcano Hot Pot, Los Alamitos CA Volcano Burgers, Norfolk and Virginia Beach VA Volcano Sushi rows
+
+No web results at all for: AR Volcano Asian Bistro LLC, DE Volcano Pizza LLC, NH Volcano Pizza Inc, WA Volcano Joe's Kitchen LLC, OR Volcano House LLC, SC Volcano Nicaraguan Cuisine/BBQ/Cafe, NJ/MD Volcano Cafe, NY Volcano Restaurant/Pizza & Restaurant entries, MI Volcano Grill/Pizza LLC, IN Volcano Steakhouse and Sushi Bar. These stay as registry-only leads; each needs the official registry record, county food permit and a restaurant-owned source.
