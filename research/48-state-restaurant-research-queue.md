@@ -6,6 +6,16 @@ Scope: the 48 contiguous states. Alaska, Hawaii, DC and territories are outside 
 
 The restaurant sheet keeps its existing format. The companion CSV tracks every state, prior restaurant leads, record checks, blockers and the next action. State order is alphabetical, beginning with Alabama; the order can be changed later. No statewide pass is marked completed just because individual restaurants already have records.
 
+## Your checklist (at home)
+
+1. Arizona: finish the ACC search at https://arizonabusinesscenter.azcc.gov/businesssearch (CAPTCHA); check VOLCANO BUFFET INC. 15776675 (805 N Dobson Rd #103, Chandler).
+2. Arkansas: run the human-verification search at https://www.sos.arkansas.gov/corps/search_all.php for VOLCANO, VULCANO, WOLCANO, VOLCAN; check VOLCANO ASIAN BISTRO LLC.
+3. Georgia: Barrow County permit/menu for VOLCANO HIBACHI SUSHI LLC, 401 Gainesville Hwy Unit 104, Winder.
+4. Virginia: Virginia Beach permit for Volcano Sushi Bar & Grill, 300 Constitution Dr, Thalia.
+5. California: Monterey County / current source for Volcano Grill & Mai Tai Bar, 27 E Carmel Valley Rd.
+6. Blocked from cloud (use your browser): FL Sunbiz, GA, TN, NH, OH, WI, MT, PA and the states listed in registry-leads-2026-10-16.md.
+7. Full lead list by state: registry-leads-2026-10-16.md. Family locations exist only in GA, TN and NJ (Berlin/Maple Shade).
+
 ## Per-state workflow
 
 1. Find the official entity registry and applicable DBA/assumed-name sources. Use the NASS directory as the starting point: https://www.nass.org/business-services/corporate-registration . Verify each live portal before searching.
