@@ -78,6 +78,10 @@ No automatic background runs or messages are scheduled. Resume this queue when a
 | Wisconsin (WI) | 0 | Queued — no matching restaurant yet on sheet |
 | Wyoming (WY) | 0 | Queued — no matching restaurant yet on sheet |
 
+## Registry mirror pass (October 16, 2026)
+
+OpenCorporates mirror searched for all remaining 46 states. Leads, exclusions and the two web-confirmed candidates (Chattanooga TN, Elk River MN) are in [registry-leads-2026-10-16.md](registry-leads-2026-10-16.md). No restaurants added to the sheet: no lead has a permit or operator confirmation yet. Georgia hits likely belong to Volcano USA and need family screening. Official registries, DBA and county permits remain open everywhere; ACC (Arizona) blocks this IP.
+
 ## Resume point
 
 **Next statewide pass: Arizona.** Alabama state business/mark records were searched October 15, 2026. Eight distinct company records reviewed; no new qualifying restaurants. Local operator/permit follow-ups remain open. See [Alabama findings](alabama-records-review-2026-10-15.md) for source links, exclusions and precise outstanding work.
