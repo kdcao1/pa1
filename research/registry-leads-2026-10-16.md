@@ -1,6 +1,6 @@
 # Registry mirror leads — 46-state pass (October 16, 2026)
 
-Source: OpenCorporates state mirrors, queries VOLCANO, VULCANO, WOLCANO, VOLCAN (first pages), run 10/16/2026. Names only; none confirmed as an operating fixed restaurant unless noted. Company-name hits are leads, not restaurants. Georgia hits likely belong to Volcano USA / family and are excluded pending screening. Drink-only and non-food names listed separately as excluded.
+Source: OpenCorporates state mirrors, queries VOLCANO, VULCANO, WOLCANO, VOLCAN (first pages), run 10/16/2026. Names only; none confirmed as an operating fixed restaurant unless noted. Company-name hits are leads, not restaurants. Georgia: user confirmed Volcano Steak & Sushi, Volcano Hiram Korean BBQ LLC and Volcano House Inc are family-owned (excluded); Volcano Hibachi Sushi LLC is NOT family and stays an open lead. Drink-only and non-food names listed separately as excluded.
 
 Excluded as family-owned (user confirmed 10/16/2026): Volcano Korean BBQ, 2011 Gunbarrel Rd, Chattanooga TN 37421. Also confirmed family-owned by user 10/16/2026 and excluded (Volcano Korean BBQ & Hot Pot, 5621 Brainerd Rd, Chattanooga; Volcano Crab & Bar, Chattanooga; registry VOLCANO BRAINERD BBQ LLC, VOLCANO SEAFOOD LLC, VOLCANO KOREAN BBQ LLC) — all Tennessee Volcano leads are family-owned.
 
@@ -67,6 +67,9 @@ Web-search-only confirmation (not official): Volcano Buffet(t), 9125 Quaday Ave 
 - VULCANO PIZZA LLC (https://opencorporates.com/companies/us_fl/L26000288553)
 
 ## GA
+
+- OPEN LEAD (non-family, user confirmed 10/16/2026): VOLCANO HIBACHI SUSHI LLC (us_ga/25143467), Active/Compliance, registered address and agent address 401 Gainesville Hwy Unit 104, Winder, GA 30680 (agent Shao Jie Chen). Web search found no restaurant listing there yet; confirm Barrow County food permit, menu and opening date.
+- Excluded as family: Volcano Steak & Sushi, Volcano Hiram Korean BBQ LLC, Volcano House Inc.
 
 - EL VOLCAN RESTAURANTE, LLC (https://opencorporates.com/companies/us_ga/15034871)
 - VOLCANO HIBACHI SUSHI LLC (https://opencorporates.com/companies/us_ga/25143467)
