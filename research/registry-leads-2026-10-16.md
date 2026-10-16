@@ -4,7 +4,9 @@ Source: OpenCorporates state mirrors, queries VOLCANO, VULCANO, WOLCANO, VOLCAN 
 
 Excluded as family-owned (user confirmed 10/16/2026): Volcano Korean BBQ, 2011 Gunbarrel Rd, Chattanooga TN 37421. Also confirmed family-owned by user 10/16/2026 and excluded (Volcano Korean BBQ & Hot Pot, 5621 Brainerd Rd, Chattanooga; Volcano Crab & Bar, Chattanooga; registry VOLCANO BRAINERD BBQ LLC, VOLCANO SEAFOOD LLC, VOLCANO KOREAN BBQ LLC) — all Tennessee Volcano leads are family-owned.
 
-Web-search-only confirmation (not official): Volcano Buffet(t), 9125 Quaday Ave NE Ste 108, Elk River MN 55330 (Yellow Pages; registry VOLCANO BUFFET INC.). Both still need permit/operator confirmation before adding to the sheet.
+Family locations exist only in Georgia, Tennessee and New Jersey (user, 10/16/2026); leads in any other state are non-family and are verified normally. NJ family sites seen so far: Volcano Steak & Sushi / Magic of Volcano Hibachi, Berlin NJ and planned Maple Shade NJ; ask user which other NJ leads are theirs.
+
+Minnesota (10/16/2026): VOLCANO BUFFET INC. (us_mn/86b156fc-97d4-e011-a886-001ec94ffe7f) Inactive, registered 9125 Quaday Ave NE #108; Yellow Pages still lists Volcano Buffett there but a Toast page lists Drake O'Neill's at the same suite, so likely closed/replaced — closed lead, not added. VOLCANO HIBACHI LLC (us_mn/8bd07b39-e751-e711-817c-00155d01c4c9) Inactive, 3923 Polk St NE; no restaurant found — unidentified lead, not added.
 
 ## AR
 
