@@ -2,7 +2,9 @@
 
 Source: OpenCorporates state mirrors, queries VOLCANO, VULCANO, WOLCANO, VOLCAN (first pages), run 10/16/2026. Names only; none confirmed as an operating fixed restaurant unless noted. Company-name hits are leads, not restaurants. Georgia hits likely belong to Volcano USA / family and are excluded pending screening. Drink-only and non-food names listed separately as excluded.
 
-Web-search-only confirmation (not official): Volcano Korean BBQ, 2011 Gunbarrel Rd, Chattanooga TN 37421 (directory + WNCT/NewsChannel 9 feature); Volcano Buffet(t), 9125 Quaday Ave NE Ste 108, Elk River MN 55330 (Yellow Pages; registry VOLCANO BUFFET INC.). Both still need permit/operator confirmation before adding to the sheet.
+Excluded as family-owned (user confirmed 10/16/2026): Volcano Korean BBQ, 2011 Gunbarrel Rd, Chattanooga TN 37421. Related Tennessee leads from the same web results (Volcano Korean BBQ & Hot Pot, 5621 Brainerd Rd, Chattanooga; Volcano Crab & Bar, Chattanooga; registry VOLCANO BRAINERD BBQ LLC, VOLCANO SEAFOOD LLC, VOLCANO KOREAN BBQ LLC) are not cleared; ask user whether they are also family.
+
+Web-search-only confirmation (not official): Volcano Buffet(t), 9125 Quaday Ave NE Ste 108, Elk River MN 55330 (Yellow Pages; registry VOLCANO BUFFET INC.). Both still need permit/operator confirmation before adding to the sheet.
 
 ## AR
 
