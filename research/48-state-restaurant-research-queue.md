@@ -82,6 +82,10 @@ No automatic background runs or messages are scheduled. Resume this queue when a
 
 OpenCorporates mirror searched for all remaining 46 states. Leads, exclusions and the two web-confirmed candidates (Elk River MN; all Tennessee Volcano leads, including Gunbarrel Rd, Brainerd Rd, Volcano Crab & Bar and the three registry entries, confirmed by user as family-owned and excluded) are in [registry-leads-2026-10-16.md](registry-leads-2026-10-16.md). No restaurants added to the sheet: no lead has a permit or operator confirmation yet. Georgia: Volcano Steak & Sushi, Volcano Hiram Korean BBQ LLC and Volcano House Inc are family (excluded); open non-family lead Volcano Hibachi Sushi LLC, 401 Gainesville Hwy Unit 104, Winder GA (restaurant unconfirmed). Official registries, DBA and county permits remain open everywhere; ACC (Arizona) blocks this IP.
 
+## Official registry probe (October 16, 2026)
+
+Arkansas official search is behind a human-verification challenge (Needs user action). CT, ID, RI, SD, LA portals are JavaScript or bot-protected and could not be queried from the cloud session; NM, VT, WV, KS, MS not completed. Official registries are not searchable by script from this environment; OpenCorporates mirror results stand in with limitations.
+
 ## Resume point
 
 **Next statewide pass: Arizona.** Alabama state business/mark records were searched October 15, 2026. Eight distinct company records reviewed; no new qualifying restaurants. Local operator/permit follow-ups remain open. See [Alabama findings](alabama-records-review-2026-10-15.md) for source links, exclusions and precise outstanding work.
