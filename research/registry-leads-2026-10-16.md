@@ -239,3 +239,8 @@ New candidate restaurants not yet on the sheet (directory/news evidence only; ne
 - Already on sheet (web search only re-found them): Battle Creek MI Volcano Pizza (148 W Columbia Ave), Burbank IL Two Volcano Seafood Boil Buffet (4817 W 77th St), North Wales PA Volcano Hot Pot, Los Alamitos CA Volcano Burgers, Norfolk and Virginia Beach VA Volcano Sushi rows
 
 No web results at all for: AR Volcano Asian Bistro LLC, DE Volcano Pizza LLC, NH Volcano Pizza Inc, WA Volcano Joe's Kitchen LLC, OR Volcano House LLC, SC Volcano Nicaraguan Cuisine/BBQ/Cafe, NJ/MD Volcano Cafe, NY Volcano Restaurant/Pizza & Restaurant entries, MI Volcano Grill/Pizza LLC, IN Volcano Steakhouse and Sushi Bar. These stay as registry-only leads; each needs the official registry record, county food permit and a restaurant-owned source.
+
+## Round 2 follow-up (10/16/2026) — kept in log, not added to sheet
+- Carmel Valley CA, Volcano Grill & Mai Tai Bar: only an SF Station listing citing a 2008 award; likely outdated, current operation unconfirmed. Needs Monterey County permit/current source.
+- Thalia VA, 300 Constitution Dr: AllMenus (757-457-8679) and Atmosfy list it as operating; no restaurant-owned site or permit found. Candidate, check Virginia Beach/VDH permit and whether it replaces the 4830 Virginia Beach Blvd row.
+- White Marsh MD: only a planned-site report (WMAR2, undated); no opening evidence.
