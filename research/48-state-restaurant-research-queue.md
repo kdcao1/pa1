@@ -80,7 +80,7 @@ No automatic background runs or messages are scheduled. Resume this queue when a
 
 ## Registry mirror pass (October 16, 2026)
 
-OpenCorporates mirror searched for all remaining 46 states. Leads, exclusions and the two web-confirmed candidates (Elk River MN; Chattanooga TN Gunbarrel Rd later confirmed by user as family-owned and excluded) are in [registry-leads-2026-10-16.md](registry-leads-2026-10-16.md). No restaurants added to the sheet: no lead has a permit or operator confirmation yet. Georgia hits likely belong to Volcano USA and need family screening. Official registries, DBA and county permits remain open everywhere; ACC (Arizona) blocks this IP.
+OpenCorporates mirror searched for all remaining 46 states. Leads, exclusions and the two web-confirmed candidates (Elk River MN; all Tennessee Volcano leads, including Gunbarrel Rd, Brainerd Rd, Volcano Crab & Bar and the three registry entries, confirmed by user as family-owned and excluded) are in [registry-leads-2026-10-16.md](registry-leads-2026-10-16.md). No restaurants added to the sheet: no lead has a permit or operator confirmation yet. Georgia hits likely belong to Volcano USA and need family screening. Official registries, DBA and county permits remain open everywhere; ACC (Arizona) blocks this IP.
 
 ## Resume point
 
